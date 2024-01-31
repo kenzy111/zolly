@@ -1,0 +1,141 @@
+
+.navbar{
+    opacity: 0.9;
+    background: rgba(242, 245, 247, 0.299);
+}
+
+.nav-link{
+    font-size: 1.4rem;
+    padding-top: 25px;
+}
+.ran{
+    margin-left: 500px;
+    margin-top: -105px;
+}
+#showcase{
+    margin-top: 130px;
+    margin-right: 20px;
+    background-color: rgb(236, 237, 239);
+}
+.img-fluid{
+    border-radius: 50px;
+}
+.btn{
+    background-color: rgb(86, 85, 148);
+    color: white;
+    margin-bottom: -280px;
+}
+.display-4{
+    font-weight: 700;
+}
+.fwe{
+    font-size: 19px;
+}
+.para{
+    font-size: 20px;
+    font-weight: 300;
+    width: 62%;
+}
+.sav{
+    margin-left: 930px;
+    margin-top: -168px;
+    font-size: 20px;
+    font-weight: 300;
+}
+.contain{
+    margin-left: 200px;
+    margin-top: 150px;
+    border-radius: 50px;
+}
+.img{
+    width: 21%;
+}
+.img1{
+    margin-top: -537px;
+    margin-left: -180px;
+}
+.img2{
+    margin-top: -530px;
+    margin-left: 865px;
+}
+.pro{
+    margin-left: 520px;
+    margin-top: -30px;
+}
+#space{
+    background: rgb(71,70,122);
+    color: white;
+    height: 28rem;
+    margin-top: 100px;
+}
+.amy{
+    padding-top: 140px;
+    padding-left: 200px;
+    font-size: 30px;
+    font-weight: 600;
+    width: 70%;
+}
+.rani{
+    padding-left: 200px;
+    font-size: 18px;
+}
+.me{
+   margin-left: 600px; 
+   margin-top: -240px;
+}
+.hav{
+    margin-top: 76px;
+}
+.say{
+    font-weight: 600;
+    font-size: 55px;
+    margin-left: 10px;
+}
+.mag{
+    border-radius: 25px;
+    margin-top: 50px;
+}
+.main{
+    margin-left: -10px;
+    margin-top: 100px;
+}
+.him{
+    margin-left: 630px;
+    width: 50%;
+    margin-top: -500px;
+}
+.man{
+    padding-left: 550px;
+    margin-top: -60px;
+    width: 40%;
+}
+.way{
+    padding-left: 850px;
+    margin-top: -120px;
+}
+.bok{
+   margin-top: 100px;
+}
+.py-3{
+    background-color: rgb(86,85,148);
+    height: 25rem;
+    margin-top: 60px;
+}
+#testimonials{
+    background-color: rgb(243, 240, 237);
+}
+#experience{
+    background-color: rgb(235, 235, 235);
+}
+.abtcontent{
+    margin-top: 100px;
+}
+.expconent{
+    margin-top: 100px;
+}
+.temcontent{
+    margin-top: 100px;
+}
+.concontent{
+    margin-top: 130px;
+}
